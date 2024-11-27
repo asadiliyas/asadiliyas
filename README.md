@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/asadiliyas17" target="blank"><img src="https://img.shields.io/twitter/follow/asadiliyas17?logo=twitter&style=for-the-badge" alt="asadiliyas17" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **asadiliyas17@gmail.com**
 
