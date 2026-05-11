@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **asadiliyas17@gmail.com**
+- 📫 How to reach me **asadiliyaswork@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16SOHE_Dzgw-i6g-tR993sVW4Eahgvdbl/view](https://drive.google.com/file/d/16SOHE_Dzgw-i6g-tR993sVW4Eahgvdbl/view)
 
